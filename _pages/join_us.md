@@ -8,10 +8,8 @@ author_profile: true
 
 Research Intern
 ======
-**阿里巴巴-未来生活实验室-拍立淘(视觉搜索算法)团队**   
+**阿里巴巴-淘天集团-拍立淘(视觉搜索算法)团队**   
 **多模态大模型和认知推荐方向日常实习生(长期有效+HC足)**  
-
-招聘官网链接：https://talent.taotian.com/campus/position-detail?lang=zh&positionId=59900001408  
 
 1.拍立淘团队    
 我们是阿里核心算法团队，致力于构建超大规模多模态搜索系统，应用于多种电商场景（如拍照搜同款、图搜相似、搭配推荐等）。      
