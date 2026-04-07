@@ -7,20 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an algorithm expert at Alibaba Group, working on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. His research mainly focuses on trustworthy representation learning, information retrieval and knowledge transfer. Before taking the faculty job, I received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
-I also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. I have published 15+ top journal and conference papers, with 2000+ google scholar citations. I have also been the PC members of top conferences including ICML, NeurIPS, ICLR, KDD and serves as the reviewer of top journals such as TPAMI, TNNLS, MLJ, TKDE.
+I am currently working at Alibaba Group, focusing on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. My research mainly focuses on trustworthy representation learning, information retrieval and multi-modal large language models. Before taking the faculty job, I received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
+I also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. I have published 15+ top journal and conference papers, with 2300+ google scholar citations. I have also been the PC members of top conferences including ICML, NeurIPS, ICLR, KDD and serves as the reviewer of top journals such as TPAMI, TNNLS, MLJ, TKDE.
 
 Research Interests
 ======    
 **·** **Trustworthy Representation Learning:**  graph representation learning / self-supervised learning / pretraining       
 **·** **Information Retrieval:**  ranking / recommendation / sequential modeling     
-**·** **Knowledge Transfer:**  cross-domain knowledge transfer / vLLMs' knowledge transfer      
+**·** **Multi-Modal Large Language Models:**  reasoning / acceleration / agents / applications        
 
 Job Experience
 ======   
-**·** **Algorithm Expert** (May, 2024 -- Now)  
+**·** **Team Leader** (May, 2025 -- Now)  
+Manage a 12+ people group of Pailitao's *Multi-Modal Ranking, Relevance and Device Intelligence*    
+**·** **Algorithm Expert** (May, 2024 -- May, 2025)  
 Taobao Pailitao, Alibaba Group  
-Team Leader of a 10 people group, including directions of *User Preference Modeling*, *vLLM based Query-Doc Relevance Modeling* and *Lightweight vLLM Models*  
 **·** **Senior Algorithm Engineer** (October, 2021 -- April, 2024)  
 Taobao Pailitao, Alibaba Group  
 **·** **Research Intern** (September, 2020 -- December, 2020)  
