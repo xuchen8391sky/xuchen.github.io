@@ -15,22 +15,22 @@ News
 
 Papers
 ======
-1. Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference
+1. Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference.  
    Yushi Ye, Feng Hong, Huangjie Zheng, **Xu Chen**, Zhiyong Chen, Yanfeng Wang, Jiangchao Yao
    [https://arxiv.org/abs/2602.22868](https://arxiv.org/abs/2602.22868) (CVPR 2026)  
-2. Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search(Pailitao Technical Report)
+2. Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search(Pailitao Technical Report).  
    Lei Chen, Chen Ju, **Xu Chen**, Zhicheng Wang, Yuheng Jiao, Hongfeng Zhan, Zhaoyang Li, Shihao Xu, Zhixiang Zhao, Tong Jia, Lin Li, Yuan Gao, Jun Song, Jinsong Lan, Xiaoyong Zhu, Bo Zheng
    [https://arxiv.org/abs/2602.13704](https://arxiv.org/abs/2602.13704) (Arxiv Feb. 2026)  
-3. Enhancing Sequential Recommendation with World Knowledge from Large Language Models
+3. Enhancing Sequential Recommendation with World Knowledge from Large Language Models.  
    Tianjie Dai, **Xu Chen<sup>†</sup>**, Yunmeng Shu, Jinsong Lan, Xiaoyong Zhu, Jiangchao Yao, Bo Zheng
    [https://arxiv.org/abs/2511.20177](https://arxiv.org/abs/2511.20177) (Arxiv Nov. 2025)  
-4. Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization
+4. Explore More, Learn Better: Parallel MLLM Embeddings under Mutual Information Minimization.  
    Zhicheng Wang, Chen Ju, **Xu Chen**, Shuai Xiao, Jinsong Lan, Xiaoyong Zhu, Ying Chen, Zhiguo Cao
    [https://arxiv.org/pdf/2511.01588](https://arxiv.org/pdf/2511.01588) (Arxiv Nov. 2025)  
-5. Wave-Particle (Continuous-Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation
+5. Wave-Particle (Continuous-Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation.  
    Yizhu Chen, Chen Ju, Zhicheng Wang, Shuai Xiao, **Xu Chen**, Jinsong Lan, Xiaoyong Zhu, Ying Chen
    [https://arxiv.org/abs/2511.01593](https://arxiv.org/abs/2511.01593) (Arxiv Nov. 2025)  
-6. Leveraging Scene Context with Dual Networks for Sequential User Behavior Modeling
+6. Leveraging Scene Context with Dual Networks for Sequential User Behavior Modeling.  
    **Xu Chen<sup>*</sup>**, Yunmeng Shu<sup>*</sup>, Yuangang Pan, Jinsong Lan, Xiaoyong Zhu, Shuai Xiao, Haojin Zhu, Ivow W. Tsang, Bo Zheng
    [https://arxiv.org/abs/2509.26172](https://arxiv.org/abs/2509.26172) (Arxiv Sep. 2025)    
 7. Multi-Branch Cooperation Networks for Enhanced Click-Through Rate Prediction in Large-Scale E-Commerce Search        
