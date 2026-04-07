@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working at Alibaba Group, focusing on developing large-scale image-to-product searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. My research mainly focuses on trustworthy representation learning, information retrieval and multi-modal large language models. Before taking the faculty job, I received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09.
-I also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. I have published 15+ top journal and conference papers, with 2300+ google scholar citations. I have also been the PC members of top conferences including ICML, NeurIPS, ICLR, KDD and serves as the reviewer of top journals such as TPAMI, TNNLS, MLJ, TKDE.
+I am currently working at Alibaba Group, focusing on developing large-scale multi-modal searching system (i.e. Pailitao or 拍立淘) at Taobao. Pailitao has become one of the largest ranking/visual/multi-modal application scenarios in China, serving hundred of million customers. My research mainly focuses on representation learning, information retrieval and multi-modal large language models. Before taking the faculty job, I received the PhD degree from Shanghai Jiao Tong University (SJTU) in 2021.09. I also received the dual PhD degree from University of Technology, Sydney (UTS) in 2022.05. I have published 15+ top journal and conference papers, with 2300+ google scholar citations. I have also been the PC members of top conferences including ICML, NeurIPS, ICLR, KDD and serves as the reviewer of top journals such as TPAMI, TNNLS, MLJ, TKDE.
 
 Research Interests
 ======    
-**·** **Trustworthy Representation Learning:**  graph representation learning / self-supervised learning / pretraining       
+**·** **Representation Learning:**  graph representation learning / self-supervised learning         
 **·** **Information Retrieval:**  ranking / recommendation / sequential modeling     
 **·** **Multi-Modal Large Language Models:**  reasoning / acceleration / agents / applications        
 
@@ -44,6 +43,6 @@ Honors and Awards
 **·** 2021 杭州市顶尖人才(淘天校招SSP或阿里星offer可评选)  
 **·** 2019 中国留学基金委CSC公派留学奖学金  
 **·** 2017 上海交通大学协同创新中心A等奖学金  
-**·** 2016 专业top1 保送上海交通大学直博  
+**·** 2016 专业top1/119 保送上海交通大学直博  
 **·** 2014 特等奖学金，国家奖学金  
 **·** 2013 特等奖学金，国家奖学金 
